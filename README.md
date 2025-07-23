@@ -1,6 +1,6 @@
 # DeepFilterNet2 Voice Enhancement Utility
 
-This project provides a utility for enhancing voice quality in audio and video files using [DeepFilterNet2](https://github.com/yuguochencuc/DeepFilterNet2).
+A very simple GUI for noise removal and voice enhancement in audio and video files using [DeepFilterNet2](https://github.com/yuguochencuc/DeepFilterNet2).
 
 ## Features
 
