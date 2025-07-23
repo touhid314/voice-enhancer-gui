@@ -11,7 +11,15 @@ A very simple GUI for noise removal and voice enhancement in audio and video fil
 [INPUT Noisy audio](demo/demo_noisy_record.mp4)  
 [OUTPUT Noise removed, voice enhanced](demo/demo_noisy_record_ENHANCED.mp4)
 
-## Usage
+## Usag
+
+https://github.com/user-attachments/assets/bd98922e-4dde-46ff-9aee-2309a4a48afb
+
+
+https://github.com/user-attachments/assets/d0c32781-e16d-49e7-90b0-5b0e2682453a
+
+
+e
 
 1. **pip install -r requirements.txt** 
 2. **Click run.bat** and run the utility with your audio or video file as input.
