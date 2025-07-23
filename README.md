@@ -1,4 +1,4 @@
-# DeepFilterNet2 Voice Enhancement Utility
+# Noise Removal and Voice Enhancement GUI
 
 A very simple GUI for noise removal and voice enhancement in audio and video files using [DeepFilterNet2](https://github.com/yuguochencuc/DeepFilterNet2).
 
