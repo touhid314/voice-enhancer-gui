@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+moviepy>=1.0.3
+deepfilternet==0.5.6  # or the correct name of the DeepFilterNet package
+numpy
+
