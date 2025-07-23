@@ -8,8 +8,8 @@ A very simple GUI for noise removal and voice enhancement in audio and video fil
 - Utilizes state-of-the-art deep learning models for noise reduction and voice clarity.
 
 ## Demo
-[INPUT Noisy audio](demo/demo_noisy_record.wav)  
-[OUTPUT Noise removed, voice enhanced](demo/demo_noisy_record_ENHANCED.wav)
+[INPUT Noisy audio](demo/demo_noisy_record.mp3)  
+[OUTPUT Noise removed, voice enhanced](demo/demo_noisy_record_ENHANCED.mp3)
 
 ## Usage
 
