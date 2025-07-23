@@ -8,8 +8,15 @@ A very simple GUI for noise removal and voice enhancement in audio and video fil
 - Utilizes state-of-the-art deep learning models for noise reduction and voice clarity.
 
 ## Demo
-https://github.com/user-attachments/assets/d0c32781-e16d-49e7-90b0-5b0e2682453a
-https://github.com/user-attachments/assets/bd98922e-4dde-46ff-9aee-2309a4a48afb
+Noisy: 
+
+https://github.com/user-attachments/assets/027836db-7b09-41e1-b85d-02fbc0aa827a
+
+Enhanced: 
+
+https://github.com/user-attachments/assets/733be219-1506-4c35-b563-1cb2b7f7cfa2
+
+
 
 ## Usage
 1. **pip install -r requirements.txt** 
