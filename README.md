@@ -9,8 +9,8 @@ A very simple GUI for noise removal and voice enhancement in audio and video fil
 
 ## Usage
 
-1. **Install dependencies** (see requirements in the repository).
-2. **Click run.bat and run the utility** with your audio or video file as input.
+1. **pip install -r requirements.txt** 
+2. **Click run.bat** and run the utility with your audio or video file as input.
 
 
 ## References
