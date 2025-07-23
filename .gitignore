@@ -1,0 +1,8 @@
+# ignore video audio files
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.mkv
+*.mov
+
