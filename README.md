@@ -7,6 +7,10 @@ A very simple GUI for noise removal and voice enhancement in audio and video fil
 - Enhance audio from both standalone audio files and embedded audio in video files.
 - Utilizes state-of-the-art deep learning models for noise reduction and voice clarity.
 
+## Demo
+Noisy Audio: [demo/demo_noisy_record.wav]
+Noise removed, voice enhanced: [demo/demo_noisy_record_ENHANCED.wav]
+
 ## Usage
 
 1. **pip install -r requirements.txt** 

@@ -6,4 +6,12 @@
 *.mkv
 *.mov
 
+# But do NOT ignore media files inside the demo/ folder
+!demo/*.mp3
+!demo/*.wav
+!demo/*.mp4
+!demo/*.avi
+!demo/*.mkv
+!demo/*.mov
+
 __pycache__/
