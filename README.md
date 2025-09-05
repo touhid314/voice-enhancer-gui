@@ -21,10 +21,17 @@ https://github.com/user-attachments/assets/733be219-1506-4c35-b563-1cb2b7f7cfa2
 
 
 ## Usage
+0. First instll rust from https://rustup.rs/
 1. **pip install -r requirements.txt** 
-2. **Click run.bat** and run the utility with your audio or video file as input.
+2. download ffmpeg and add to your system path. 
+    - go to https://www.gyan.dev/ffmpeg/builds/
+    - download a build (i.e. https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+    - extract ffmpeg to a folder (i.e. C:/ffmpeg)
+    - add ffmpeg.exe folder to system environment variable (i.e. C:/ffmpeg/bin)
+3. **Click run.bat** and run the utility with your audio or video file as input.
 
 
 ## References
-
 - [DeepFilterNet2 GitHub Repository](https://github.com/yuguochencuc/DeepFilterNet2)
+
+

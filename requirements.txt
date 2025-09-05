@@ -2,4 +2,6 @@ PyQt5>=5.15.0
 moviepy>=1.0.3
 deepfilternet==0.5.6  # or the correct name of the DeepFilterNet package
 numpy
+torch torchaudio -f https://download.pytorch.org/whl/cpu/torch_stable.html # for CPU only
+torch torchaudio --index-url https://download.pytorch.org/whl/cu121 # for CUDA 12.1
 
