@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/733be219-1506-4c35-b563-1cb2b7f7cfa2
 
 ## Usage
 0. First instll rust from https://rustup.rs/
-1. **pip install -r requirements.txt** 
+1. **pip install -r requirements-cuda.txt** if you are using cuda enabled nvidia gpu or **pip install -r requirements-cpu.txt** if you want to run it on cpu.
 2. download ffmpeg and add to your system path. 
     - go to https://www.gyan.dev/ffmpeg/builds/
     - download a build (i.e. https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)

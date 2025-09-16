@@ -3,8 +3,8 @@ import os
 
 
 ############### SET INPUT AND OUTPUT FOLDER PATHS AND RUN THE SCRIPT ###############
-folder_path = r"D:\Higher Study Admission Course\Mehnaz videos"
-out_folder = r"D:\Higher Study Admission Course\Mehnaz videos\enhanced"
+folder_path = r"D:\Higher Study Admission Course\Touhid videos\records\#FINAL VIDEOS"
+out_folder = r"D:\Higher Study Admission Course\Touhid videos\records\#FINAL VIDEOS\Enhanced Audio"
 ####################################################################################
 
 for filename in os.listdir(folder_path):

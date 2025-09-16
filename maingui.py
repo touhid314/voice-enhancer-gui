@@ -4,6 +4,9 @@ from PyQt5.QtWidgets import (
     QApplication, QWidget, QPushButton, QVBoxLayout,
     QLabel, QFileDialog, QMessageBox
 )
+
+from PyQt5.QtCore import Qt
+
 from utils import enhance_audio_file, enhance_video_file
 
 class AudioEnhancerGUI(QWidget):
@@ -52,6 +55,9 @@ class AudioEnhancerGUI(QWidget):
             QMessageBox.critical(self, "Error", str(e))
 
 if __name__ == "__main__":
+    QApplication.setAttribute(Qt.AA_EnableHighDpiScaling, True)
+    QApplication.setAttribute(Qt.AA_UseHighDpiPixmaps, True)
+
     app = QApplication(sys.argv)
     window = AudioEnhancerGUI()
     window.show()
